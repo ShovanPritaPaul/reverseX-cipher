@@ -1,5 +1,5 @@
 Course Code: CSE361         
-Course Title: Mathematical Analysis for Computer Science-         
+Course Title: Mathematical Analysis for Computer Science               
 Project Title: ReverseX-Cipher        
     
 
